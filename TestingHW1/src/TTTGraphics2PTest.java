@@ -1,6 +1,5 @@
-import static org.junit.Assert.*;
-
-import javax.swing.SwingUtilities;
+import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertTrue;
 
 import org.junit.After;
 import org.junit.Before;
