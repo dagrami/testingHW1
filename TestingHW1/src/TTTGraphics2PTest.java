@@ -1,9 +1,16 @@
 import static org.junit.Assert.assertFalse;
+
 import static org.junit.Assert.assertTrue;
 
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+
+/**
+ * Test cases written for HW1
+ * @author Daniel Miller (dgm3df)
+ *
+ */
 
 public class TTTGraphics2PTest {
 
